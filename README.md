@@ -1,6 +1,6 @@
 # Github User Activity
 
-un script simple para obtener las últimas actividades de un usuario en Github
+Un script simple para obtener las últimas actividades de un usuario en Github
 
 ## Uso
 
